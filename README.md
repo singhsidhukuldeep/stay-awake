@@ -31,7 +31,7 @@ Stay-Awake is a Simple Platform Independent Python package to keep your system a
 [![DependaBot](https://api.dependabot.com/badges/status?host=github&repo=singhsidhukuldeep/stay-awake)](https://dependabot.com/)
 
 [![Issues](https://img.shields.io/github/issues/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/issues)
-[![Total Commits](https://badgen.net/github/commits/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/commits/master)
+[![Total Commits](https://badgen.net/github/commits/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/commits/main)
 [![Contributors](https://badgen.net/github/contributors/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/graphs/contributors)
 [![Forks](https://badgen.net/github/forks/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/network/members)
 [![Stars](https://badgen.net/github/stars/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/stargazers)
