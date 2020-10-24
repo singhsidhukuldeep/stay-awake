@@ -2,16 +2,20 @@
 
 <p align="center">
   <a href="https://pypi.org/project/stay-awake/">
-    <img src="https://raw.githubusercontent.com/singhsidhukuldeep/stay-awake/main/images/sample.PNG" width="220" alt="Go to https://pypi.org/project/stay-awake/">
+    <img src="https://raw.githubusercontent.com/singhsidhukuldeep/stay-awake/main/images/sample.PNG" width="1080" alt="Go to https://pypi.org/project/stay-awake/">
   </a>
 </p>
-
+<p align="center">
+<a href="https://pypi.org/project/stay-awake/"><img src="https://img.shields.io/pypi/pyversions/stay-awake" alt="Go to https://pypi.org/project/stay-awake/"/></a>
+<a href="https://pypi.org/project/stay-awake/"><img src="https://img.shields.io/pypi/v/stay-awake" alt="Go to https://pypi.org/project/stay-awake/"/></a>
+<a href="https://pypi.org/project/stay-awake/"><img src="https://img.shields.io/pypi/status/stay-awake" alt="Go to https://pypi.org/project/stay-awake/"/></a>
+<a href="https://pypi.org/project/stay-awake/"><img src="https://img.shields.io/pypi/format/stay-awake" alt="Go to https://pypi.org/project/stay-awake/"/></a>
+</p>
 
 
 ## Current Status
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/singhsidhukuldeep)
-[![GitHub pages status](https://img.shields.io/github/deployments/singhsidhukuldeep/stay-awake/github-pages)](https://github.com/singhsidhukuldeep/stay-awake/deployments/activity_log?environment=github-pages)
 [![GitHub up-time BOT](https://badgen.net/uptime-robot/month/ur967659-422c6e77bfb79bb6a47c642c)](https://github.com/singhsidhukuldeep/stay-awake/deployments/activity_log?environment=github-pages)
 [![Commits](https://img.shields.io/github/last-commit/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/commits/master)
 [![DependaBot](https://api.dependabot.com/badges/status?host=github&repo=singhsidhukuldeep/stay-awake)](https://dependabot.com/)
