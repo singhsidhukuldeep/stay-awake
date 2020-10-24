@@ -12,6 +12,16 @@
 <a href="https://pypi.org/project/stay-awake/"><img src="https://img.shields.io/pypi/format/stay-awake" alt="Go to https://pypi.org/project/stay-awake/"/></a>
 </p>
 
+Stay-Awake is a Simple Platform Independent Python package to keep your system awake without affecting workflow!
+
+* Does this affect workflow? 
+> No, this only get's triggered when you don't do any mouse movements!
+
+* Is there a GUI?
+> This was intended to be a light weight solution, so as of now it only has a CLI!
+
+* How does it work?
+> If in a span of 60 seconds you don't move your mouse, this script will automatically move your mouse for about 1 to 4 pixels randomly. There won't be any mouse displacement! If you are working, this will do absolutely nothing!
 
 ## Current Status
 
