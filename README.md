@@ -29,8 +29,6 @@
 * **`Linux`** Systems:
 
     ```shell
-    sudo pip3 install virtualenv
-
     python3 -m venv ./venv
 
     source venv/bin/activate
@@ -45,11 +43,9 @@
 * **`Windows`** Systems:
 
     ```shell
-    pip3 install virtualenv
-
     python3 -m venv ./venv
 
-    venv\Scriptsctivate
+    venv\Scripts\activate
 
     pip3 install -r requirements.txt
     ```
@@ -59,6 +55,18 @@
     ```
 
     If getting issue in installing virtualenv on `windows`, use administrator privileges
+    
+ ### Installing Package
+ 
+ ```shell
+pip3 install stay-awake
+ ```
+
+### Running
+
+```shell
+python3 -m stay-awake
+```
 
 ## Credits
 
