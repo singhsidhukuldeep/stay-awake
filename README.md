@@ -98,6 +98,16 @@ python3 -m stay-awake
 - `python3 setup.py sdist`
 - `twine upload --repository-url https://upload.pypi.org/legacy/ dist/*`
 
+OR
+
+Go to your project folder and:
+```shell
+pip3 install setuptools twine
+
+python3 setup.py sdist
+twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+```
+
 ## Credits
 
 ### Maintained by

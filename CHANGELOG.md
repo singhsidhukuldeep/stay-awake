@@ -10,3 +10,11 @@ CHANGE LOG
 - Second stable version
 - Added absolute control by allowing to interrupt the process mid-way.
 - Added functionality to add custom wait time.
+
+0.2.1 (27/11/2020)
+------------------------
+- Fixed Issues
+
+0.3 (27/11/2020)
+------------------------
+- Fixed Issues in `.md` files

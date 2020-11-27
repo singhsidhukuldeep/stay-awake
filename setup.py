@@ -21,9 +21,9 @@ classifiers = [
 
 setup(
     name='stay-awake',
-    version='0.2',
+    version='0.3',
     description='Simple Platform Independent Python package to keep your system awake without affecting workflow!',
-    long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read()+'\n\nRead more at https://github.com/singhsidhukuldeep/stay-awake',
+    long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.md').read()+'\n\nRead more at https://github.com/singhsidhukuldeep/stay-awake',
     long_description_content_type="text/markdown",
     url='https://github.com/singhsidhukuldeep/stay-awake',
     author='Kuldeep Singh Sidhu',
