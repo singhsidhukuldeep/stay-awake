@@ -47,6 +47,26 @@ Stay-Awake is a Simple Platform Independent Python package to keep your system a
 
 ## Setup
 
+### Installing Package
+ 
+ ```shell
+pip3 install stay-awake
+ ```
+
+### Running
+
+```shell
+python3 -m stay-awake
+```
+
+You can also give custom timeouts
+
+Eg: for 5 minutes(default is 1 min)
+
+```shell
+python3 -m stay-awake 5
+```
+
 **Important:** *Virtual Environment is recommended*
 
 * **`Linux`** Systems:
@@ -79,17 +99,7 @@ Stay-Awake is a Simple Platform Independent Python package to keep your system a
 
     If getting issue in installing virtualenv on `windows`, use administrator privileges
     
- ### Installing Package
- 
- ```shell
-pip3 install stay-awake
- ```
 
-### Running
-
-```shell
-python3 -m stay-awake
-```
 
 ## Steps for publishing to `pypi` [This is just for me, Maybe!]
 
