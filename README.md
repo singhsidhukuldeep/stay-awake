@@ -91,11 +91,18 @@ pip3 install stay-awake
 python3 -m stay-awake
 ```
 
+## Steps for publishing to `pypi` [This is just for me, Maybe!]
+
+- `pip3 install setuptools twine`
+- Go to project folder
+- `python3 setup.py sdist`
+- `twine upload --repository-url https://upload.pypi.org/legacy/ dist/*`
+
 ## Credits
 
 ### Maintained by
 
-👨‍🎓 ***Kuldeep Singh Sidhu*** 
+***Kuldeep Singh Sidhu*** 
 
 Github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
 `https://github.com/singhsidhukuldeep`
@@ -108,11 +115,11 @@ LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)](https://www.linkedin.com/in/singhsidh
 
 ### Contributors
 
-😎 The full list of all the contributors is available [here](https://github.com/singhsidhukuldeep/stay-awake/graphs/contributors)
+The full list of all the contributors is available [here](https://github.com/singhsidhukuldeep/stay-awake/graphs/contributors)
 
 
 [![website](https://forthebadge.com/images/badges/built-with-love.svg)](http://kuldeepsinghsidhu.com)
 
 ## Say Thanks
 
-😊 If this helped you in any way, it would be great if you could share it with others.
+If this helped you in any way, it would be great if you could share it with others.
