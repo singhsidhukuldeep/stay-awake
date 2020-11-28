@@ -59,13 +59,10 @@ pip3 install stay-awake
 python3 -m stay-awake
 ```
 
-You can also give custom timeouts
+> You can also give custom timeouts
+> Eg: for 5 minutes (default is 1 min) `python3 -m stay-awake 5`
 
-Eg: for 5 minutes(default is 1 min)
-
-```shell
-python3 -m stay-awake 5
-```
+### Virtual Environment
 
 **Important:** *Virtual Environment is recommended*
 
