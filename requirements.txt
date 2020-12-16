@@ -21,7 +21,7 @@ PyScreeze==0.1.26
 PyTweening==1.0.3
 pywin32-ctypes==0.2.0
 readme-renderer==28.0
-requests==2.25.0
+requests==2.25.1
 requests-toolbelt==0.9.1
 rfc3986==1.4.0
 six==1.15.0
