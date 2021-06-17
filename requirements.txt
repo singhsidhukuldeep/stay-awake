@@ -1,6 +1,6 @@
 bleach==3.2.1
 certifi==2020.12.5
-chardet==3.0.4
+chardet==4.0.0
 colorama==0.4.4
 docutils==0.16
 idna==2.10
