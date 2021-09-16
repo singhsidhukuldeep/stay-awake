@@ -17,7 +17,7 @@ PyMsgBox==1.0.9
 pyparsing==2.4.7
 pyperclip==1.8.1
 PyRect==0.1.4
-PyScreeze==0.1.26
+PyScreeze==0.1.28
 PyTweening==1.0.3
 pywin32-ctypes==0.2.0
 readme-renderer==28.0
