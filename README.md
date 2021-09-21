@@ -24,26 +24,7 @@ Stay-Awake is a Simple Platform Independent Python package to keep your system a
 * How does it work?
 > If in a span of 60 seconds you don't move your mouse, this script will automatically move your mouse for about 1 to 4 pixels randomly. There won't be any mouse displacement! If you are working, this will do absolutely nothing!
 
-## Current Status
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/singhsidhukuldeep)
-[![GitHub up-time BOT](https://badgen.net/uptime-robot/month/ur967659-422c6e77bfb79bb6a47c642c)](https://github.com/singhsidhukuldeep/stay-awake/deployments/activity_log?environment=github-pages)
-[![Commits](https://img.shields.io/github/last-commit/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/commits/master)
-[![DependaBot](https://api.dependabot.com/badges/status?host=github&repo=singhsidhukuldeep/stay-awake)](https://dependabot.com/)
-
-[![Issues](https://img.shields.io/github/issues/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/issues)
-[![Total Commits](https://badgen.net/github/commits/singhsidhukuldeep/stay-awake/main)](https://github.com/singhsidhukuldeep/stay-awake/commits/main)
-[![Contributors](https://badgen.net/github/contributors/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/graphs/contributors)
-[![Forks](https://badgen.net/github/forks/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/network/members)
-[![Stars](https://badgen.net/github/stars/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/stargazers)
-[![Watchers](https://badgen.net/github/watchers/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/watchers)
-[![Branches](https://badgen.net/github/branches/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/branches)
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python3.5+-1f425f.svg)](https://www.python.org/)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![repo- size](https://img.shields.io/github/repo-size/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake)
-[![Followers](https://img.shields.io/github/followers/singhsidhukuldeep?style=plastic&logo=github)](https://github.com/singhsidhukuldeep?tab=followers)
 
 ## Setup
 
@@ -140,3 +121,24 @@ The full list of all the contributors is available [here](https://github.com/sin
 ## Say Thanks
 
 If this helped you in any way, it would be great if you could share it with others.
+
+## Current Status
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/singhsidhukuldeep)
+[![GitHub up-time BOT](https://badgen.net/uptime-robot/month/ur967659-422c6e77bfb79bb6a47c642c)](https://github.com/singhsidhukuldeep/stay-awake/deployments/activity_log?environment=github-pages)
+[![Commits](https://img.shields.io/github/last-commit/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/commits/master)
+[![DependaBot](https://api.dependabot.com/badges/status?host=github&repo=singhsidhukuldeep/stay-awake)](https://dependabot.com/)
+
+[![Issues](https://img.shields.io/github/issues/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/issues)
+[![Total Commits](https://badgen.net/github/commits/singhsidhukuldeep/stay-awake/main)](https://github.com/singhsidhukuldeep/stay-awake/commits/main)
+[![Contributors](https://badgen.net/github/contributors/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/graphs/contributors)
+[![Forks](https://badgen.net/github/forks/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/network/members)
+[![Stars](https://badgen.net/github/stars/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/stargazers)
+[![Watchers](https://badgen.net/github/watchers/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/watchers)
+[![Branches](https://badgen.net/github/branches/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/branches)
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python3.5+-1f425f.svg)](https://www.python.org/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![repo- size](https://img.shields.io/github/repo-size/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake)
+[![Followers](https://img.shields.io/github/followers/singhsidhukuldeep?style=plastic&logo=github)](https://github.com/singhsidhukuldeep?tab=followers)
