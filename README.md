@@ -43,58 +43,11 @@ python3 -m stay-awake
 > You can also give custom timeouts
 > Eg: for 5 minutes (default is 1 min) `python3 -m stay-awake 5`
 
-### Virtual Environment
-
 **Important:** *Virtual Environment is recommended*
 
-* **`Linux`** Systems:
 
-    ```shell
-    python3 -m venv ./venv
-
-    source venv/bin/activate
-
-    pip3 install -r requirements.txt
-    ```
-
-    ```shell
-    deactivate
-    ```
-
-* **`Windows`** Systems:
-
-    ```shell
-    python3 -m venv ./venv
-
-    venv\Scripts\activate
-
-    pip3 install -r requirements.txt
-    ```
-
-    ```shell
-    venv\Scripts\deactivate
-    ```
-
-    If getting issue in installing virtualenv on `windows`, use administrator privileges
+If getting issue in installing virtualenv on `windows`, use administrator privileges
     
-
-
-## Steps for publishing to `pypi` [This is just for me, Maybe!]
-
-- `pip3 install setuptools twine`
-- Go to project folder
-- `python3 setup.py sdist`
-- `twine upload --repository-url https://upload.pypi.org/legacy/ dist/*`
-
-OR
-
-Go to your project folder and:
-```shell
-pip3 install setuptools twine
-
-python3 setup.py sdist
-twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
-```
 
 ## Credits
 
@@ -142,3 +95,21 @@ If this helped you in any way, it would be great if you could share it with othe
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![repo- size](https://img.shields.io/github/repo-size/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake)
 [![Followers](https://img.shields.io/github/followers/singhsidhukuldeep?style=plastic&logo=github)](https://github.com/singhsidhukuldeep?tab=followers)
+
+
+## Steps for publishing to `pypi` [This is just for me, Maybe!]
+
+- `pip3 install setuptools twine`
+- Go to project folder
+- `python3 setup.py sdist`
+- `twine upload --repository-url https://upload.pypi.org/legacy/ dist/*`
+
+OR
+
+Go to your project folder and:
+```shell
+pip3 install setuptools twine
+
+python3 setup.py sdist
+twine upload --repository-url https://upload.pypi.org/legacy/ dist/*
+```
