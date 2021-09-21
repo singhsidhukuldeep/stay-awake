@@ -1,5 +1,4 @@
-# stay-awake
-
+<h1 align="center">stay-awake</h1>
 <p align="center">
   <a href="https://pypi.org/project/stay-awake/">
     <img src="https://raw.githubusercontent.com/singhsidhukuldeep/stay-awake/main/images/sample.PNG" width="1080" alt="Go to https://pypi.org/project/stay-awake/">
