@@ -78,11 +78,6 @@ If this helped you in any way, it would be great if you could share it with othe
 
 ## Current Status
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/singhsidhukuldeep)
-[![GitHub up-time BOT](https://badgen.net/uptime-robot/month/ur967659-422c6e77bfb79bb6a47c642c)](https://github.com/singhsidhukuldeep/stay-awake/deployments/activity_log?environment=github-pages)
-[![Commits](https://img.shields.io/github/last-commit/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/commits/master)
-[![DependaBot](https://api.dependabot.com/badges/status?host=github&repo=singhsidhukuldeep/stay-awake)](https://dependabot.com/)
-
 [![Issues](https://img.shields.io/github/issues/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/issues)
 [![Total Commits](https://badgen.net/github/commits/singhsidhukuldeep/stay-awake/main)](https://github.com/singhsidhukuldeep/stay-awake/commits/main)
 [![Contributors](https://badgen.net/github/contributors/singhsidhukuldeep/stay-awake)](https://github.com/singhsidhukuldeep/stay-awake/graphs/contributors)
