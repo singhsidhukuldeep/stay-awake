@@ -14,7 +14,7 @@ PyAutoGUI==0.9.53
 PyGetWindow==0.0.9
 Pygments==2.10.0
 PyMsgBox==1.0.9
-pyparsing==2.4.7
+pyparsing==3.0.3
 pyperclip==1.8.2
 PyRect==0.1.4
 PyScreeze==0.1.28
