@@ -10,7 +10,7 @@
 <a href="https://pypi.org/project/stay-awake/"><img src="https://img.shields.io/pypi/status/stay-awake" alt="Go to https://pypi.org/project/stay-awake/"/></a>
 <a href="https://pypi.org/project/stay-awake/"><img src="https://img.shields.io/pypi/format/stay-awake" alt="Go to https://pypi.org/project/stay-awake/"/></a>
 <a href="https://pypistats.org/packages/stay-awake"><img src="https://img.shields.io/pypi/dm/stay-awake"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=stay_awake" alt="Go to https://pypi.org/project/stay-awake/"/>
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=stay_awake" alt="Go to https://pypi.org/project/stay-awake/"/>-->
 <img src="https://static.pepy.tech/personalized-badge/stay-awake?period=total&units=none&left_color=black&right_color=brightgreen&left_text=Total%20Downloads" alt="Go to https://pypi.org/project/stay-awake/"/>
 </p>
 
