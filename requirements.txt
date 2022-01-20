@@ -3,7 +3,7 @@ certifi==2021.10.8
 chardet==4.0.0
 colorama==0.4.4
 docutils==0.18.1
-idna==3.2
+idna==3.3
 importlib-metadata==4.10.1
 keyring==23.5.0
 MouseInfo==0.1.3
