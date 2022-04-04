@@ -25,7 +25,7 @@ requests==2.27.1
 requests-toolbelt==0.9.1
 rfc3986==2.0.0
 six==1.16.0
-tqdm==4.63.0
+tqdm==4.64.0
 twine==3.7.1
 urllib3==1.26.9
 webencodings==0.5.1
