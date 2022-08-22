@@ -20,7 +20,7 @@ PyRect==0.1.4
 PyScreeze==0.1.28
 PyTweening==1.0.4
 pywin32-ctypes==0.2.0
-readme-renderer==34.0
+readme-renderer==37.0
 requests==2.27.1
 requests-toolbelt==0.9.1
 rfc3986==2.0.0
