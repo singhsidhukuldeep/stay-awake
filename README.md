@@ -49,6 +49,15 @@ python3 -m stay-awake
 
 If getting issue in installing virtualenv on `windows`, use administrator privileges
     
+  
+<h2 align="center">🌟⭐✨STAR ME✨⭐🌟</h2>
+
+<p align="center">
+  <b>You can give me a small 🤓 dopmaine 🤝 support by ⭐STARRING⭐ this project</b>
+  
+<img src="https://api.star-history.com/svg?repos=singhsidhukuldeep/stay-awake&type=Date" width="70%" alt="🌟⭐✨STAR ME✨⭐🌟">
+</p>
+
 
 ## Credits
 
